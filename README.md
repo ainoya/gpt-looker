@@ -20,6 +20,8 @@ This repository contains a demo application that uses OpenAI and LangChain to in
     pip install -r requirements.txt
     ```
 
+1. Place the `looker.ini` file in the root directory of the project.
+
 1. Set the environment variables `LOOKER_MODEL_NAME` and `LOOKML_DIR` to the appropriate values for your Looker model and LookML directory:
 
     ```bash
