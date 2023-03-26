@@ -49,6 +49,7 @@ This repository contains a demo application that uses OpenAI and LangChain to in
 
 - Integrate this application with ChatGPT to enable seamless communication between the two platforms and further enhance the natural language processing capabilities.
 - Implement a smarter search indexing for Retrieval QA using [lkml](https://github.com/joshtemple/lkml) to improve the overall search experience.
+- Integrate with [ChatGPT Plugin](https://platform.openai.com/docs/plugins/introduction).
 
 ## LICENSE
 
