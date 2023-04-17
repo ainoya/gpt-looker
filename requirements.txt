@@ -1,4 +1,4 @@
-langchain==0.0.136
+langchain==0.0.141
 looker_sdk==23.6.0
 pandas==2.0.0
 streamlit==1.21.0
